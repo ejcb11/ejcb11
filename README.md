@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner principal" />
+  <img src="banner.png" width="100%" alt="Banner principal" style="max-height: 220px; object-fit: cover; border-radius: 6px;" />
 </div>
 
 <h1 align="center">Eduardo Contreras</h1>
@@ -17,7 +17,7 @@
 
 ### Sobre Mí
 
-<img align="right" width="190" src="astronaut.png" alt="Astronauta Pixel" />
+<img align="right" width="44%" src="astronaut.png" alt="Astronauta Pixel" />
 
 **Eduardo Contreras**, TSU en Informática y estudiante de último año de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial del Estado Táchira (UPTAIET).
 
@@ -25,7 +25,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles orientadas a prod
 
 Actualmente implemento soluciones con **Supabase (PostgreSQL + RLS)**, **SQLite**, **Flutter** y **React**, aplicando estructuras de datos, lógica algorítmica y flujos de desarrollo asistidos por inteligencia artificial (**Cursor**, **Anthropic**).
 
-Mi objetivo es escribir código estructurado, mantener estándares de calidad y aportar valor técnico en equipos de desarrollo en modalidad remota.
+Mi objetivo es simple: escribir código estructurado, mantener estándares de calidad y aportar valor técnico en equipos de desarrollo en modalidad remota.
 
 <br clear="right" />
 
