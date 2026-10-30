@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Eduardo Contreras</h1>
-<h3 align="center">Desarrollador Frontend & Full Stack Junior</h3>
+<h3 align="center">Software Developer & Full Stack Junior</h3>
 
 <p align="center">
   <code>Desarrollo de interfaces web, aplicaciones móviles y arquitecturas en la nube.</code>
