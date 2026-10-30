@@ -6,11 +6,11 @@
 <h3 align="center">Software Developer & Full Stack Junior</h3>
 
 <p align="center">
-  <code>Desarrollo de interfaces web, aplicaciones móviles y arquitecturas en la nube.</code>
+  <code>Desarrollo de interfaces web, aplicaciones móviles y arquitecturas de software.</code>
 </p>
 
 <p align="center">
-  Construcción de sistemas de software confiables con arquitectura limpia y soluciones escalables.
+  Construcción de sistemas funcionales con código limpio, bases de datos relacionales y soluciones escalables.
 </p>
 
 ---
@@ -19,13 +19,13 @@
 
 <img align="right" width="44%" src="astronaut.png" alt="Astronauta Pixel" />
 
-**Eduardo Contreras**, TSU en Informática y estudiante de último año de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial del Estado Táchira (UPTAIET).
+Soy **Eduardo Contreras**, **Software Developer** y **Full Stack Junior**. Cuento con el título de TSU en Informática y actualmente curso el último trayecto de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial (UPTAIET).
 
-Me especializo en el desarrollo de aplicaciones web y móviles orientadas a producción con **React 19**, **Flutter (Dart)** y **Node.js**, uniendo el diseño y maquetación de interfaces con arquitecturas estructuradas de backend y bases de datos relacionales.
+Me dedico al desarrollo de aplicaciones web y móviles funcionales, cubriendo desde la maquetación y experiencia interactiva en frontend hasta el diseño de APIs, lógica de negocio y persistencia de datos en backend. Mi stack habitual se centra en **React**, **Flutter (Dart)**, **Node.js / Express** y bases de datos relacionales como **PostgreSQL (Supabase)** y **SQLite**.
 
-Actualmente implemento soluciones con **Supabase (PostgreSQL + RLS)**, **SQLite**, **Flutter** y **React**, aplicando estructuras de datos, lógica algorítmica y flujos de desarrollo asistidos por inteligencia artificial (**Cursor**, **Anthropic**).
+A la par de mi formación universitaria en la politécnica, he complementado mi perfil con certificaciones y cursos especializados de instituciones como **Anthropic AI**, **IBM** y **Santander Open Academy**, abarcando áreas de programación, fundamentos de ciberseguridad y manejo de datos con inteligencia artificial aplicada.
 
-Mi objetivo es simple: escribir código estructurado, mantener estándares de calidad y aportar valor técnico en equipos de desarrollo en modalidad remota.
+Me enfoco en desarrollar software estructurado, resolver necesidades reales con criterio técnico y aportar valor inmediato dentro de equipos de desarrollo.
 
 <br clear="right" />
 
