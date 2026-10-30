@@ -19,7 +19,7 @@
 
 <img align="right" width="44%" src="astronaut.png" alt="Astronauta Pixel" />
 
-Soy **Eduardo**, **Software Developer** y **Full Stack Junior**. Cuento con el título de TSU en Informática y actualmente curso el último trayecto de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial (UPTAIET).
+**Software Developer** y **Full Stack Junior**. Cuento con el título de TSU en Informática y actualmente curso el último trayecto de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial (UPTAIET).
 
 Me dedico al desarrollo de Software, sistemas y aplicaciones web y móviles funcionales, Mi stack habitual se centra en **React**, **Flutter**, **Node.js / Express** y bases de datos relacionales como **PostgreSQL (Supabase)** y **SQLite**.
 
