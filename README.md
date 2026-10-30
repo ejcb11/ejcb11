@@ -1,37 +1,37 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Creation of Adam Banner" />
+  <img src="banner.png" width="100%" alt="Banner principal" />
 </div>
 
-<h1 align="center">Hi 👋, Imma Eduardo</h1>
-<h3 align="center">Frontend & Full Stack Developer Junior</h3>
+<h1 align="center">Eduardo Contreras</h1>
+<h3 align="center">Desarrollador Frontend & Full Stack Junior</h3>
 
 <p align="center">
-  <code>Building responsive interfaces, cross-platform mobile apps & cloud architectures.</code>
+  <code>Desarrollo de interfaces web, aplicaciones móviles y arquitecturas en la nube.</code>
 </p>
 
 <p align="center">
-  Building reliable web and mobile systems with clean architecture and scalable solutions.
+  Construcción de sistemas de software confiables con arquitectura limpia y soluciones escalables.
 </p>
 
 ---
 
-### 🚀 About Me
+### Sobre Mí
 
-<img align="right" width="200" src="astronaut.png" alt="Pixel Astronaut" />
+<img align="right" width="190" src="astronaut.png" alt="Astronauta Pixel" />
 
-**Eduardo**, Here — a final-year Computer Engineering student and TSU in Computer Science based in Venezuela.
+**Eduardo Contreras**, TSU en Informática y estudiante de último año de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial del Estado Táchira (UPTAIET).
 
-I enjoy building scalable, production-ready web and mobile applications with **React**, **Flutter**, and **Node.js**, continuously improving my understanding of real-world full stack systems.
+Me especializo en el desarrollo de aplicaciones web y móviles orientadas a producción con **React 19**, **Flutter (Dart)** y **Node.js**, uniendo el diseño y maquetación de interfaces con arquitecturas estructuradas de backend y bases de datos relacionales.
 
-Currently, I'm building with **React 19**, **Flutter (Dart)**, **Supabase (PostgreSQL + RLS)**, and **SQLite**, while sharpening my problem-solving skills through **Data Structures & Algorithms** and AI-assisted engineering (**Cursor**, **Anthropic**).
+Actualmente implemento soluciones con **Supabase (PostgreSQL + RLS)**, **SQLite**, **Flutter** y **React**, aplicando estructuras de datos, lógica algorítmica y flujos de desarrollo asistidos por inteligencia artificial (**Cursor**, **Anthropic**).
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+Mi objetivo es escribir código estructurado, mantener estándares de calidad y aportar valor técnico en equipos de desarrollo en modalidad remota.
 
 <br clear="right" />
 
 ---
 
-### 🤝 Connect
+### Contacto
 
 <div align="center">
   <a href="https://github.com/ejcb11" target="_blank">
@@ -43,44 +43,34 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ejcb2006@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Correo Electrónico" />
   </a>
 </div>
 
 ---
 
-### 💻 Tech Stack
+### Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,html,css,tailwind,vite" alt="Frontend and Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,html,css,tailwind,vite" alt="Frontend y Mobile" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,supabase,sqlite,git,github,vscode" alt="Backend and Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,supabase,sqlite,git,github,vscode" alt="Backend, Datos y Herramientas" />
 </div>
 
 ---
 
-### 📂 Featured Projects
+### Proyectos Destacados
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
-| **[Ferreira Fitness GYM](https://github.com/ejcb11/landing-page-GYM)** | Complete gym ecosystem: Flutter mobile app with QR member passes & weekly plans, synced in real time with Supabase. | `Flutter` `Dart` `Supabase` `PostgreSQL` |
-| **[GearStore](https://github.com/ejcb11/tienda-perifericos)** | High-performance peripheral e-commerce powered by a custom reusable React UI component library. | `React 19` `Vite` `React Router` `CSS3` |
-| **[Clinimant](https://github.com/ejcb11/clinimant)** | Full-stack clinical maintenance & biomedical inventory management system with JWT auth and role tracking. | `Node.js` `Express` `SQLite3` `JWT` |
+| **[Ferreira Fitness GYM](https://github.com/ejcb11/landing-page-GYM)** | Ecosistema completo para gimnasio: aplicación móvil en Flutter con carnet digital QR y seguimiento de rutinas, integrada en tiempo real con Supabase. | `Flutter` `Dart` `Supabase` `PostgreSQL` |
+| **[GearStore](https://github.com/ejcb11/tienda-perifericos)** | Tienda web de periféricos y hardware desarrollada en React a partir de una librería propia de componentes UI reutilizables. | `React 19` `Vite` `React Router` `CSS3` |
+| **[Clinimant](https://github.com/ejcb11/clinimant)** | Sistema Full Stack para gestión de mantenimiento biomédico, control de inventario de repuestos y órdenes de servicio técnico. | `Node.js` `Express` `SQLite3` `JWT` |
 
 ---
 
-### 📊 GitHub Stats
+### Estadísticas de Actividad
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejcb11&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ejcb11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ejcb11&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=ejcb11&theme=tokyonight&hide_border=true" alt="Racha de contribuciones en GitHub" />
 </div>
