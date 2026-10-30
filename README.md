@@ -19,9 +19,9 @@
 
 <img align="right" width="44%" src="astronaut.png" alt="Astronauta Pixel" />
 
-Soy **Eduardo Contreras**, **Software Developer** y **Full Stack Junior**. Cuento con el título de TSU en Informática y actualmente curso el último trayecto de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial (UPTAIET).
+Soy **Eduardo**, **Software Developer** y **Full Stack Junior**. Cuento con el título de TSU en Informática y actualmente curso el último trayecto de Ingeniería en Informática en la Universidad Politécnica Territorial Agroindustrial (UPTAIET).
 
-Me dedico al desarrollo de aplicaciones web y móviles funcionales, cubriendo desde la maquetación y experiencia interactiva en frontend hasta el diseño de APIs, lógica de negocio y persistencia de datos en backend. Mi stack habitual se centra en **React**, **Flutter (Dart)**, **Node.js / Express** y bases de datos relacionales como **PostgreSQL (Supabase)** y **SQLite**.
+Me dedico al desarrollo de Software, sistemas y aplicaciones web y móviles funcionales, Mi stack habitual se centra en **React**, **Flutter**, **Node.js / Express** y bases de datos relacionales como **PostgreSQL (Supabase)** y **SQLite**.
 
 A la par de mi formación universitaria en la politécnica, he complementado mi perfil con certificaciones y cursos especializados de instituciones como **Anthropic AI**, **IBM** y **Santander Open Academy**, abarcando áreas de programación, fundamentos de ciberseguridad y manejo de datos con inteligencia artificial aplicada.
 
