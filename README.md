@@ -25,7 +25,7 @@ Me dedico al desarrollo de Software, sistemas y aplicaciones web y móviles func
 
 A la par de mi formación universitaria en la politécnica, he complementado mi perfil con certificaciones y cursos especializados de instituciones como **Anthropic AI**, **IBM** y **Santander Open Academy**, abarcando áreas de programación, fundamentos de ciberseguridad y manejo de datos con inteligencia artificial aplicada.
 
-Me enfoco en desarrollar software estructurado, resolver necesidades reales con criterio técnico y aportar valor inmediato dentro de equipos de desarrollo..
+Me enfoco en desarrollar software estructurado, resolver necesidades reales con criterio técnico y aportar valor inmediato dentro de equipos de desarrollo.
 
 <br clear="right" />
 
