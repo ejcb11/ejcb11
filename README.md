@@ -63,7 +63,7 @@ Me enfoco en desarrollar software estructurado, resolver necesidades reales con 
 
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
-| **[Ferreira Fitness GYM](https://github.com/ejcb11/landing-page-GYM)** | Ecosistema completo para gimnasio: aplicación móvil en Flutter con carnet digital QR y seguimiento de rutinas, integrada en tiempo real con Supabase. | `Flutter` `Dart` `Supabase` `PostgreSQL` |
+| **[FitGYM](https://github.com/ejcb11/landing-page-GYM)** | Ecosistema completo para gimnasio: aplicación móvil en Flutter con carnet digital QR y seguimiento de rutinas, integrada en tiempo real con Supabase. | `Flutter` `Dart` `Supabase` `PostgreSQL` |
 | **[GearStore](https://github.com/ejcb11/tienda-perifericos)** | Tienda web de periféricos y hardware desarrollada en React a partir de una librería propia de componentes UI reutilizables. | `React 19` `Vite` `React Router` `CSS3` |
 | **[VidaClinic](https://github.com/ejcb11/vidaclinic-sistema-medico)** | Sistema integral de gestión hospitalaria y consulta médica: liquidación contable de dividendos (p/c), portal de autoservicio para pacientes, reportes en PDF/Excel y sincronización en tiempo real con la API del BCV. | `Python` `Flask` `SQLite3` `ReportLab` `OpenPyXL` |
 
